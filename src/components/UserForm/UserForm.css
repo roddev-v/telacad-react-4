@@ -1,0 +1,14 @@
+.user-form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  padding: 10px;
+}
+
+.user-form h2 {
+  color: red;
+}
+
+.user-form label {
+  color: darkgoldenrod;
+}
